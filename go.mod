@@ -1,3 +1,3 @@
-module gtihub.com/cristalhq/lvlbp
+module github.com/cristalhq/lvlbp
 
 go 1.16
